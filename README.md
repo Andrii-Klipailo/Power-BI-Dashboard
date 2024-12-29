@@ -8,15 +8,15 @@ Here, we can compare all the data from our survey as needed, and it allows us to
 For example, in the center of the dashboard, there is a scale showing the Mental Health Level (calculated as the average score across all mental health issues).
 A higher score indicates fewer mental health problems.
 ### Summary Page
+###### screen_1
 ![Page1](https://github.com/Andrii-Klipailo/Power-BI-Dashboard/blob/main/screenshots/screenshot_1.png)
 This is the Summary page of the dashboard. It displays key information from the Music and Mental Health Survey.
 Here, we can compare all the data from our survey as needed, and it allows us to identify interesting insights.
 For example, in the center of the dashboard, there is a scale showing the Mental Health Level (calculated as the average score across all mental health issues).
 A higher score indicates fewer mental health problems.
-
-ewfeafsdfsdfsadfasdfads
+###### screen_2
 ![Page2](https://github.com/Andrii-Klipailo/Power-BI-Dashboard/blob/main/screenshots/screenshot_2.png)
-afadfsdfasdfasdfasfd
+Here, for example, we can choose and analyze information about respondents in the 20-25 age group.
 ![Page3](https://github.com/Andrii-Klipailo/Power-BI-Dashboard/blob/main/screenshots/screenshot_3.png)
 assfdasdfasdfasdfasdf
 ![Page4](https://github.com/Andrii-Klipailo/Power-BI-Dashboard/blob/main/screenshots/screenshot_4.png)
