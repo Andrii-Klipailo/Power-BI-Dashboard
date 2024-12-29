@@ -14,13 +14,13 @@ Here, we can compare all the data from our survey as needed, and it allows us to
 For example, in the center of the dashboard, there is a scale showing the Mental Health Level (calculated as the average score across all mental health issues).
 A higher score indicates fewer mental health problems.
 
-
+ewfeafsdfsdfsadfasdfads
 ![Page2](https://github.com/Andrii-Klipailo/Power-BI-Dashboard/blob/main/screenshots/screenshot_2.png)
-
+afadfsdfasdfasdfasfd
 ![Page3](https://github.com/Andrii-Klipailo/Power-BI-Dashboard/blob/main/screenshots/screenshot_3.png)
-
+assfdasdfasdfasdfasdf
 ![Page4](https://github.com/Andrii-Klipailo/Power-BI-Dashboard/blob/main/screenshots/screenshot_4.png)
-
+afsdfsdfasdfasdfasdf
 ![Page5](https://github.com/Andrii-Klipailo/Power-BI-Dashboard/blob/main/screenshots/screenshot_5.png)
-
+asdfadsfsdfasdfasdfasdfasdfasdf
 ![Page6](https://github.com/Andrii-Klipailo/Power-BI-Dashboard/blob/main/screenshots/screenshot_6.png)
